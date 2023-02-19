@@ -6,9 +6,15 @@
       <sourceFolder url="file://$MODULE_DIR$/chapter_2/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/minigrep/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/chapter_3/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chapter_4/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chapter_5/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/web_server/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/chapter_2/target" />
       <excludeFolder url="file://$MODULE_DIR$/minigrep/target" />
       <excludeFolder url="file://$MODULE_DIR$/chapter_3/target" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter_4/target" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter_5/target" />
+      <excludeFolder url="file://$MODULE_DIR$/web_server/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
